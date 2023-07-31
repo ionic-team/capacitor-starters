@@ -1,6 +1,6 @@
-# Capacitor Starter Templates
+# Capacitor Phaser Starter Templates
 
-A collection of templates using popular web app stacks to use as a resource for new Capacitor apps.
+A Capacitor Phaser 3 starter template.
 
 ## Contributing
 
